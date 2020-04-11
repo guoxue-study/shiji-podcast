@@ -18,7 +18,7 @@
   <itunes:category text="History"/></itunes:category>
   <itunes:keywords>史记,中国历史</itunes:keywords>
   
-    </channel>
+
       <item>
       <title>五帝本纪</title>
       <itunes:summary>黄帝者，少典之子，姓公孙，名曰轩辕。生而神灵，弱而能言，幼而徇齐，长而敦敏，成而聪明。</itunes:summary>
@@ -1709,5 +1709,6 @@
       <guid>https://shiji-podcast.qiaopang.com/assets/130.mp3</guid>
   </item>
   
+    </channel>
   </rss>
   
