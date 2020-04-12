@@ -1,8 +1,8 @@
-  <?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
     <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
     <channel>
       <title>史记</title>
-  <link>https://shiji-podcast.qiaopang.com/<link>
+  <link>https://shiji-podcast.qiaopang.com/</link>
   <language>zh-CN</language>
   <itunes:subtitle></itunes:subtitle>
   <itunes:author>Tyr Chen</itunes:author>
@@ -15,7 +15,7 @@
   </itunes:owner>
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://shiji-podcast.qiaopang.com/assets/cover.jpg" />
-  <itunes:category text="History"/></itunes:category>
+  <itunes:category text="History"/>
   <itunes:keywords>史记,中国历史</itunes:keywords>
   
 
@@ -1711,4 +1711,3 @@
   
     </channel>
   </rss>
-  
