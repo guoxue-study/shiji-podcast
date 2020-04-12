@@ -6,16 +6,16 @@
   <language>zh-CN</language>
   <itunes:subtitle></itunes:subtitle>
   <itunes:author>Tyr Chen</itunes:author>
-  <itunes:email>tyr.chen@gmail.com</itunes:email>
   <itunes:summary>提供《史记》全文的讯飞 TTS 朗读
 </itunes:summary>
   <description>提供《史记》全文的讯飞 TTS 朗读
 </description>
   <itunes:owner>
       <itunes:name>Tyr Chen</itunes:name>
+      <itunes:email>tyr.chen@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://shiji-podcast.qiaopang.com/assets/cover.png" />
+  <itunes:image href="https://shiji-podcast.qiaopang.com/assets/cover.jpg" />
   <itunes:category text="History"/>
   <itunes:keywords>史记,中国历史</itunes:keywords>
   
