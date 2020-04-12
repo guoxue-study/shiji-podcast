@@ -6,7 +6,7 @@ GEN_INDEX=podgen html
 SRC=$(shell find src/*.md)
 OUT=$(SRC:src/%.md=assets/%.mp3)
 
-all: $(OUT) gen-readme gen-index gend-feed
+all: $(OUT) gen-readme gen-index gen-feed
 
 $(OUT):assets/%.mp3:src/%.md
 	@echo "Creating $@ with file $<."
